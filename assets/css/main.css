@@ -1,0 +1,16 @@
+body {
+    padding: 1.5em;
+}
+h1 {
+    margin: 0;
+    font-size: 2em;
+    padding: 1em 0;
+}
+img {
+    max-width: 80%;
+    height: auto;
+    margin: 0 10%;
+}
+p {
+    line-height: 1.2em;
+}
